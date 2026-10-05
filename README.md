@@ -9,10 +9,10 @@ The application is built with Java Script and React
 1. Clone the repository:
 git clone https://github.com/annaUniversal/react-toDoLost.git
 
-2. Navigate to the progect directory
+2. Navigate to the project directory
 cd react-toDoLost
 
-3. Install the project dependecies
+3. Install the project dependencies
 npm install
 
 # Run the development server
